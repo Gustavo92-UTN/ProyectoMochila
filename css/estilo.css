@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cuerpo{
+    background-color: #DAF7A6;
+}
+
+.container{
+    background-color: #C70039;
+}
+
+.main{
+    font-size: 30px;
+    color: white;
+    background-color: #FFC300;
+    width: 85%;
+    margin: auto;
+}
+
+.articulo{
+    background-color: #FF5733;
+    padding: 0 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.main ul{
+    margin-left: 40px;
+    margin-bottom: 0;
+    padding: 0 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer{
+    background-color: rgb(156, 156, 156);
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
