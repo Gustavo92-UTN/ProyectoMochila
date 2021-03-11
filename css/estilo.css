@@ -7,9 +7,10 @@
     background-color: #DAF7A6;
 }
 
-.container{
+.carusel{
     background-color: #C70039;
     width: 85%;
+    margin: auto;
 }
 
 .d-block{
