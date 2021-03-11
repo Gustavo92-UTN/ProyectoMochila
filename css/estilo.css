@@ -9,10 +9,16 @@
 
 .container{
     background-color: #C70039;
+    width: 85%;
+}
+
+.d-block{
+    width: 40%;
+    min-width: 230px;
 }
 
 .main{
-    font-size: 30px;
+    font-size: 20px;
     color: white;
     background-color: #FFC300;
     width: 85%;
